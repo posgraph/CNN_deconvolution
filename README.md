@@ -33,6 +33,11 @@ Hyeongseok Son (sonhs@postech.ac.kr)
 Cite our papers if you find this software useful.<br>
 1. Hyeongseok Son, Seungyong Lee, "[Fast Non-blind Deconvolution via Regularized Residual Networks with Long/Short Skip-Connections](http://cg.postech.ac.kr/research/resnet_deconvolution/)", IEEE International Conference on Computational Photography (ICCP) 2017, 2017. 
 
+## License
+This software is being made available under the terms in the [LICENSE](LICENSE) file.
+
+Any exemptions to these terms requires a license from the Pohang University of Science and Technology.
+
 ## About Coupe Project
 Project ‘COUPE’ aims to develop software that evaluates and improves the quality of images and videos based on big visual data. To achieve the goal, we extract sharpness, color, composition features from images and develop technologies for restoring and improving by using it. In addition, personalization technology through user preference analysis is under study.
 
